@@ -14,6 +14,8 @@ async function pageOpen() {
 }
 pageOpen();
 
+
+
 searchBtn.addEventListener('click', executeSearch);
 tempDisplay.addEventListener('click', convertTemperature)
 
